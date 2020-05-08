@@ -1,0 +1,10 @@
+<application>
+  <component name="SourceryConfigService">
+    <option name="pluginVersion" value="0.3.5" />
+    <option name="sourceryConfigFolder" value="C:\Users\DayDreamer-i7\AppData\Local\sourcery" />
+    <option name="sourceryExecutable" value="C:\Users\DayDreamer-i7\AppData\Roaming\JetBrains\PyCharm2020.1\plugins\pycharm-plugin\lib\win\sourcery.exe" />
+    <option name="sourceryProductName" value="Pro" />
+    <option name="sourceryToken" value="user_xLfnLxsYSnUH_8tfG14hJlYmZII-LPUse9IDMeuLuIF2uwZ9LsEWFfvbNoo" />
+    <option name="sourceryVersion" value="0.6.8" />
+  </component>
+</application>

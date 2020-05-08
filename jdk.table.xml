@@ -1,0 +1,658 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 Anaconda Main" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1013586911" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Django)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Anaconda3\envs\Django\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/Django/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Django/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Django/Lib/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Django/dd_django/api/google_api" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-354123830" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Giftcher)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="C:\Anaconda3\envs\Giftcher\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/Giftcher/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Giftcher/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Giftcher/Lib/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Giftcher/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Giftcher/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Giftcher/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1174972995" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/Giftcher" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (UpWork)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\Python\UpWork\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Anaconda3" type="simple" />
+            <root url="file://C:/Python/UpWork/venv" type="simple" />
+            <root url="file://C:/Python/UpWork/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/UpWork/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Python/UpWork/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://C:/Python/UpWork/venv/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Python/UpWork/venv/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Python/UpWork/venv/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1666918647" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/UpWork" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (UpWork)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Anaconda3\envs\Upwork27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/Upwork27/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Upwork27/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Upwork27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Upwork27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/2016331892" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (dd_flask)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\Python\dd_flask\dd_flask\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Anaconda3" type="simple" />
+            <root url="file://C:/Python/dd_flask/dd_flask" type="simple" />
+            <root url="file://C:/Python/dd_flask/dd_flask/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/dd_flask/dd_flask/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Django/dd_django/api/google_api" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/133078882" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/dd_flask" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (speech2jira)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\Python\speech2jira\env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/speech2jira/env" type="simple" />
+            <root url="file://C:/Python/speech2jira/env/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1496591851" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/speech2jira" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (PySomething)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\PySomething\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/PySomething/venv" type="simple" />
+            <root url="file://C:/Python/PySomething/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1640072006" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/PySomething" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (FishPro)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\FishPro\env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/FishPro/env" type="simple" />
+            <root url="file://C:/Python/FishPro/env/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/FishPro/env/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-926254114" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/FishPro" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (AutoTester)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\AutoTester\env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/AutoTester/env" type="simple" />
+            <root url="file://C:/Python/AutoTester/env/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/AutoTester/env/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Python/AutoTester/fishpro/src" type="simple" />
+            <root url="file://C:/Python/AutoTester/unitycontrol" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-252273649" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/AutoTester" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (fishpro_sheet_sync)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\fishpro_sheet_sync\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/fishpro_sheet_sync/venv" type="simple" />
+            <root url="file://C:/Python/fishpro_sheet_sync/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/fishpro_sheet_sync/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Python/fishpro_sheet_sync/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1356843088" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/fishpro_sheet_sync" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Processing)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\Processing\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/Processing/venv" type="simple" />
+            <root url="file://C:/Python/Processing/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/Processing/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Python/Processing/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-648197826" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/Processing" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (PyBoard)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\PyBoard\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/PyBoard/venv" type="simple" />
+            <root url="file://C:/Python/PyBoard/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/PyBoard/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Python/PyBoard/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-197278798" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/PyBoard" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Jira)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\Jira\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/Jira/venv" type="simple" />
+            <root url="file://C:/Python/Jira/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/Jira/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Python/Jira/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1243881753" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/Jira" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (DiscordBot)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\DiscordBot\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/DiscordBot/venv" type="simple" />
+            <root url="file://C:/Python/DiscordBot/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/DiscordBot/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Python/DiscordBot/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1848544038" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/DiscordBot" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (venv)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Python\fabrica-tools\sources\MyCFWebBrowser\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/fabrica-tools/sources/MyCFWebBrowser/venv/Lib" type="simple" />
+            <root url="file://C:/Python/fabrica-tools/sources/MyCFWebBrowser/venv/Scripts" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Basic Python v2/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Basic Python v2/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/Basic Python v2/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python/fabrica-tools/sources/MyCFWebBrowser/venv" type="simple" />
+            <root url="file://C:/Python/fabrica-tools/sources/MyCFWebBrowser/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/770487754" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/fabrica-tools/sources/MyCFBrowser/launcher.py" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Streaming)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Python\Streaming\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python3.7.3/DLLs" type="simple" />
+            <root url="file://C:/Python3.7.3/Lib" type="simple" />
+            <root url="file://C:/Python3.7.3" type="simple" />
+            <root url="file://C:/Python/Streaming/venv" type="simple" />
+            <root url="file://C:/Python/Streaming/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Python/Streaming/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/275726711" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/Streaming" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (HelloDjango)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Anaconda3\envs\HelloDjango\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/HelloDjango/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/HelloDjango/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/HelloDjango/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/996883884" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/DjangoCrashCourse/hellodjango" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (everycheese)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Anaconda3\envs\everycheese\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/everycheese/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/everycheese/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/everycheese/Lib/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/envs/everycheese/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Anaconda3/envs/everycheese/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/everycheese/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-767458425" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/Django/everycheese" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (anibuddy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Anaconda3\envs\anibuddy\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/anibuddy/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/anibuddy/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/anibuddy/Lib/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/envs/anibuddy/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Anaconda3/envs/anibuddy/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/anibuddy/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/658166779" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/Anibuddy" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (IronUnity)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Anaconda3\envs\IronUnity\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/IronUnity/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/IronUnity/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/IronUnity/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Anaconda3/envs/IronUnity/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-544697492" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Buddy/2d experimental project/2D experimental/Assets/greeter.py" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (BuddyTester)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Anaconda3\envs\BuddyTester\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/BuddyTester/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/BuddyTester/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python38/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/envs/BuddyTester/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1520233044" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (buddy_tester)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Users\DayDreamer-i7\.virtualenvs\buddy_tester-jDHd-tnS\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/buddy_tester-jDHd-tnS" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/buddy_tester-jDHd-tnS/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/1909471524" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Python/buddy_tester" IS_PIPENV="true" />
+    </jdk>
+  </component>
+</application>

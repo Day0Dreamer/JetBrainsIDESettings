@@ -1,0 +1,11 @@
+<templateSet group="PySide">
+  <template name="main_gui" value="from $from$ import $ui_file$_ui&#10;from PySide.QtGui import $QType$&#10;&#10;&#10;class UI$classname$($QType$, $ui_file$_ui.Ui_ps2c4d_widget):&#10;    def __init__(self):&#10;        super(UI$classname$, self).__init__()&#10;        self.setupUi(self)&#10;&#10;&#10;if __name__ == '__main__':&#10;    from PySide.QtGui import QApplication&#10;    app = QApplication([])&#10;    ui = UI$classname$()&#10;    ui.show()&#10;    app.exec_()&#10;$END$" description="Initiate GUI" toReformat="false" toShortenFQNames="true">
+    <variable name="from" expression="" defaultValue="&quot;Automating.gui.widgets&quot;" alwaysStopAt="true" />
+    <variable name="ui_file" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="QType" expression="" defaultValue="&quot;QWidget&quot;" alwaysStopAt="true" />
+    <variable name="classname" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
