@@ -3,21 +3,21 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="pyp" type="Cython" />
-      <mapping ext="mp4" type="Native" />
+      <mapping ext="exe" type="Native" />
       <mapping ext="flac" type="Native" />
       <mapping ext="lnk" type="Native" />
-      <mapping ext="exe" type="Native" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping ext="kv" type="PLAIN_TEXT" />
+      <mapping ext="enum" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="act" type="PLAIN_TEXT" />
-      <mapping ext="enum" type="PLAIN_TEXT" />
-      <mapping pattern="Vault of gifs" type="Python" />
+      <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping pattern="link_request" type="Python" />
+      <mapping pattern="Vault of gifs" type="Python" />
+      <removed_mapping pattern=".coverage" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
