@@ -8,9 +8,9 @@
       <mapping ext="lnk" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
+      <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="act" type="PLAIN_TEXT" />
