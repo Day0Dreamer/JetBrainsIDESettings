@@ -45,10 +45,10 @@
           <presentable-name>Ubuntu</presentable-name>
         </descriptor>
         <descriptor>
-          <id>UBUNTU1604</id>
-          <microsoft-id>Ubuntu-16.04</microsoft-id>
-          <executable-path>ubuntu1604.exe</executable-path>
-          <presentable-name>Ubuntu 16.04</presentable-name>
+          <id>UBUNTU2004</id>
+          <microsoft-id>Ubuntu-20.04</microsoft-id>
+          <executable-path>ubuntu2004.exe</executable-path>
+          <presentable-name>Ubuntu 20.04</presentable-name>
         </descriptor>
         <descriptor>
           <id>UBUNTU1804</id>
@@ -79,6 +79,12 @@
           <microsoft-id>openSUSE-Leap-15-1</microsoft-id>
           <executable-path>openSUSE-Leap-15-1.exe</executable-path>
           <presentable-name>openSUSE Leap 15.1</presentable-name>
+        </descriptor>
+        <descriptor>
+          <id>UBUNTU1604</id>
+          <microsoft-id>Ubuntu-16.04</microsoft-id>
+          <executable-path>ubuntu1604.exe</executable-path>
+          <presentable-name>Ubuntu 16.04</presentable-name>
         </descriptor>
         <descriptor>
           <id>ARCH</id>
