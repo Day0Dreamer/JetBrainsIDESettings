@@ -13,6 +13,7 @@
       <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
       <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
+      <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping pattern="Vault of gifs" type="Python" />
