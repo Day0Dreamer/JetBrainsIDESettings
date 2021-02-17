@@ -4,11 +4,6 @@
       <configuration>
         <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
         <option name="certificatesPath" />
-      </configuration>
-    </remote-server>
-    <remote-server name="Docker anibuddy-local-development" type="docker">
-      <configuration>
-        <option name="apiUrl" value="tcp://34.107.27.96:2375" />
         <option name="pathMappings">
           <list />
         </option>
