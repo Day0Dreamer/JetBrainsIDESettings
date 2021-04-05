@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="IpnbRunCellInplaceAction" />
+  <action id="JumpToLastWindow" />
   <action id="PyExecuteCellAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
@@ -33,6 +34,13 @@
   </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="ViewSource" />
 </keymap>
