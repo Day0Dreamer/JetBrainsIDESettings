@@ -1,5 +1,12 @@
 <toolSet name="External Tools">
-  <tool name="Compile UI" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="Compile UI (PyQt5)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/C &quot;pyuic5.exe $FileDir$\$FileName$ &gt; $FileDir$\ui_$FileNameWithoutAllExtensions$.py&quot;" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="Compile UI (PySide)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="cmd" />
       <option name="PARAMETERS" value="/C &quot;pyside2-uic.exe $FileDir$\$FileName$ &gt; $FileDir$\ui_$FileNameWithoutAllExtensions$.py&quot;" />
