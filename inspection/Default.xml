@@ -3,8 +3,21 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="1">
+        <list size="14">
           <item index="0" class="java.lang.String" itemvalue="pyside2" />
+          <item index="1" class="java.lang.String" itemvalue="keyboard" />
+          <item index="2" class="java.lang.String" itemvalue="pyperclip" />
+          <item index="3" class="java.lang.String" itemvalue="pygame" />
+          <item index="4" class="java.lang.String" itemvalue="pytweening" />
+          <item index="5" class="java.lang.String" itemvalue="launchpad-py" />
+          <item index="6" class="java.lang.String" itemvalue="pymsgbox" />
+          <item index="7" class="java.lang.String" itemvalue="mouseinfo" />
+          <item index="8" class="java.lang.String" itemvalue="pyrect" />
+          <item index="9" class="java.lang.String" itemvalue="mouse" />
+          <item index="10" class="java.lang.String" itemvalue="pyscreeze" />
+          <item index="11" class="java.lang.String" itemvalue="pillow" />
+          <item index="12" class="java.lang.String" itemvalue="pyautogui" />
+          <item index="13" class="java.lang.String" itemvalue="pygetwindow" />
         </list>
       </value>
     </option>
