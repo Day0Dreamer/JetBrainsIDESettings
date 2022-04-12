@@ -4,15 +4,14 @@
     <extensionMap>
       <mapping pattern="dev_creds" type="AUTO_DETECTED" />
       <mapping ext="shadron" type="AUTO_DETECTED" />
-      <mapping ext="pyp" type="Cython" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="flac" type="Native" />
       <mapping ext="lnk" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
-      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
       <mapping ext="bat" type="PLAIN_TEXT" />
@@ -23,6 +22,7 @@
       <mapping pattern="link_request" type="Python" />
       <mapping pattern="Vault of gifs" type="Python" />
       <removed_mapping pattern=".coverage" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="pyp" type="Cython" />
     </extensionMap>
   </component>
 </application>
