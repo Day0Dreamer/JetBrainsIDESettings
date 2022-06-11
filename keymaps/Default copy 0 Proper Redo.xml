@@ -51,5 +51,8 @@
   <action id="Tool_CodeFormatter_Flake8">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Tool_CodeFormatter_Flake8 (Current file)">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ViewSource" />
 </keymap>
