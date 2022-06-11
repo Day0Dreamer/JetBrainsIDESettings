@@ -15,13 +15,12 @@
       <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
       <mapping ext="kv" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping pattern="link_request" type="Python" />
       <mapping pattern="Vault of gifs" type="Python" />
-      <mapping ext="pyp" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".coverage" approved="true" type="PLAIN_TEXT" />
       <mapping ext="pyp" type="Cython" />
     </extensionMap>
