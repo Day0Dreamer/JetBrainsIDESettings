@@ -17,12 +17,12 @@
       <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
-      <mapping pattern="link_request" type="Python" />
-      <mapping pattern="Vault of gifs" type="Python" />
       <mapping ext="pyp" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".coverage" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Vault of gifs" approved="true" type="Python" />
+      <removed_mapping pattern="link_request" approved="true" type="Python" />
       <mapping ext="pyp" type="Cython" />
     </extensionMap>
   </component>
