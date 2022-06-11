@@ -13,6 +13,14 @@
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="IpnbRunCellInplaceAction" />
   <action id="JumpToLastWindow" />
   <action id="PyExecuteCellAction" />
@@ -49,10 +57,14 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="Tool_CodeFormatter_Flake8">
-    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="Tool_CodeFormatter_Flake8 (Current file)">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Tool_CodeFormatter_MyPy">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewSource" />
 </keymap>
