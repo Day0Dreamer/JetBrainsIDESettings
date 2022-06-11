@@ -1,9 +1,9 @@
 <toolSet name="CodeFormatter">
   <tool name="Flake8" description="Run flake on current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="flake8" />
+      <option name="COMMAND" value="$PyInterpreterDirectory$\flake8.exe" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Poetry Flake8" description="Run flake on current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
