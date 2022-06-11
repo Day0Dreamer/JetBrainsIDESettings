@@ -9,14 +9,15 @@
       <mapping ext="lnk" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
       <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="pyp" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".coverage" approved="true" type="PLAIN_TEXT" />
