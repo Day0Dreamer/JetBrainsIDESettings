@@ -67,4 +67,7 @@
   </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewSource" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
