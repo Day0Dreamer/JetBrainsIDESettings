@@ -1,0 +1,9 @@
+<toolSet name="Cinema4D">
+  <tool name="SendCodeToC4D" description="Send python code to Cinema 4D from PyCharm" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ModuleSdkPath$" />
+      <option name="PARAMETERS" value="-u B:\Render Farm Project\Cinema4D Studios\R24\plugins\SendPythonCodeToCinema4D\send_python_code.py --file $FilePath$ --origin PyCharm" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>
