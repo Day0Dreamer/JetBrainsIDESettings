@@ -4,19 +4,24 @@
     <extensionMap>
       <mapping pattern="dev_creds" type="AUTO_DETECTED" />
       <mapping ext="shadron" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="pyp" type="Cython" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="flac" type="Native" />
       <mapping ext="lnk" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
       <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
@@ -24,7 +29,6 @@
       <removed_mapping pattern=".coverage" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Vault of gifs" approved="true" type="Python" />
       <removed_mapping pattern="link_request" approved="true" type="Python" />
-      <mapping ext="pyp" type="Cython" />
     </extensionMap>
   </component>
 </application>
