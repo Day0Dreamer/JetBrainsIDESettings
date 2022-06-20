@@ -65,8 +65,13 @@
   <action id="Tool_CodeFormatter_MyPy">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="Tool_CodeFormatter_Stylecheck">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewSource" />
+  <action id="com.dubreuia.core.action.ShortcutAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
