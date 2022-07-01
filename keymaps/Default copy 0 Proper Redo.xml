@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="FileChooserList.Root" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -45,15 +46,16 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="Terminal.OpenInTerminal">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="Tool_Cinema4D_SendCodeToC4D">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="Tool_CodeFormatter_Flake8">
     <keyboard-shortcut first-keystroke="alt l" />
