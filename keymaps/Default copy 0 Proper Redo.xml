@@ -21,6 +21,10 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="IpnbRunCellInplaceAction" />
   <action id="JumpToLastWindow" />
   <action id="PyExecuteCellAction" />
