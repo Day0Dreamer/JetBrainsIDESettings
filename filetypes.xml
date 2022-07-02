@@ -5,6 +5,7 @@
       <mapping pattern="dev_creds" type="AUTO_DETECTED" />
       <mapping ext="shadron" type="AUTO_DETECTED" />
       <mapping ext="pyp" type="Cython" />
+      <mapping pattern=".coveragerc" type="Ini" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="flac" type="Native" />
       <mapping ext="lnk" type="Native" />
