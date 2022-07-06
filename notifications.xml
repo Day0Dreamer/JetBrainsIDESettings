@@ -10,6 +10,7 @@
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Key Promoter X" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Clipboard" displayType="NONE" />
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
   </component>
 </application>
