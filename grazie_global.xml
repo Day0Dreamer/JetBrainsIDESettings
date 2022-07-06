@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="c4dpy" />
+            <option value="Cinema4d" />
           </set>
         </option>
       </SuppressingContext>
