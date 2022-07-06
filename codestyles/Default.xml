@@ -15,6 +15,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <Python>
+    <option name="DICT_ALIGNMENT" value="1" />
+  </Python>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
   </XML>
@@ -22,7 +25,7 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="Python">
-    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="RIGHT_MARGIN" value="125" />
     <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="90" />
   </codeStyleSettings>
