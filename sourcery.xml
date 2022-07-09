@@ -1,9 +1,9 @@
 <application>
   <component name="SourceryConfigService">
-    <option name="pluginVersion" value="0.12.1" />
-    <option name="sourceryExecutable" value="C:\Users\DayDreamer-i7\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\222.3244.2.plugins\sourcery\sourcery_binaries\install\win\sourcery.exe" />
+    <option name="pluginVersion" value="0.12.3" />
+    <option name="sourceryExecutable" value="C:\Users\DayDreamer-i7\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\222.3345.3.plugins\sourcery\sourcery_binaries\install\win\sourcery.exe" />
     <option name="sourceryProductName" value="Free" />
     <option name="sourceryToken" value="user_xLfnLxsYSnUH_8tfG14hJlYmZII-LPUse9IDMeuLuIF2uwZ9LsEWFfvbNoo" />
-    <option name="sourceryVersion" value="0.12.1" />
+    <option name="sourceryVersion" value="0.12.3" />
   </component>
 </application>
