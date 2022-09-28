@@ -6,19 +6,19 @@
       <mapping ext="shadron" type="AUTO_DETECTED" />
       <mapping ext="pyp" type="Cython" />
       <mapping pattern=".coveragerc" type="Ini" />
-      <mapping ext="mp4" type="Native" />
-      <mapping ext="flac" type="Native" />
-      <mapping ext="lnk" type="Native" />
       <mapping ext="exe" type="Native" />
+      <mapping ext="lnk" type="Native" />
+      <mapping ext="flac" type="Native" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
-      <mapping ext="kv" type="PLAIN_TEXT" />
-      <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="kv" type="PLAIN_TEXT" />
+      <mapping ext="act" type="PLAIN_TEXT" />
+      <mapping ext="wav" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
