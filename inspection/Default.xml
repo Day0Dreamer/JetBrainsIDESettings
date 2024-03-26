@@ -58,5 +58,5 @@
       </list>
     </option>
   </inspection_tool>
-  <inspection_tool class="PyrightLSInspection" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+  <inspection_tool class="PyrightLSInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
 </profile>
