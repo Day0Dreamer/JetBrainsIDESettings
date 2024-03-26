@@ -10,8 +10,6 @@
   </option>
   <inspection_tool class="MicroPythonRequirements" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoredPackages">
       <value>
@@ -66,8 +64,5 @@
       </list>
     </option>
   </inspection_tool>
-  <inspection_tool class="PyrightLSInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="PyRight">
-    <scope name="Open Files" level="PyRight" enabled="true" />
-    <scope name="Project Files" level="PyRight" enabled="true" />
-  </inspection_tool>
+  <inspection_tool class="PyrightLSInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="PyRight" />
 </profile>
