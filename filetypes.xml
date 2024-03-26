@@ -1,34 +1,30 @@
 <application>
-  <component name="FileTypeManager" version="19">
-    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="dev_creds" type="AUTO_DETECTED" />
-      <mapping ext="tcss" type="AUTO_DETECTED" />
       <mapping ext="shadron" type="AUTO_DETECTED" />
       <mapping ext="pyp" type="Cython" />
       <mapping pattern=".coveragerc" type="Ini" />
       <mapping ext="exe" type="Native" />
-      <mapping ext="mp4" type="Native" />
       <mapping ext="lnk" type="Native" />
       <mapping ext="flac" type="Native" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern="Kivy2.py" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping ext="enum" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
-      <mapping ext="enum" type="PLAIN_TEXT" />
-      <mapping ext="kv" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
-      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".coverage" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Vault of gifs" approved="true" type="Python" />
       <removed_mapping pattern="link_request" approved="true" type="Python" />

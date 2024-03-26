@@ -1,0 +1,13 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker for Windows" type="docker">
+      <configuration>
+        <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list />
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
