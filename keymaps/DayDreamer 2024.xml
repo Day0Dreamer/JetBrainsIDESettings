@@ -1,21 +1,24 @@
-<keymap version="1" name="Default copy 0" parent="$default">
+<keymap version="1" name="DayDreamer 2024" parent="$default">
   <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jpa.Execute" />
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="EditorChooseLookupItemAlways" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
-    <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="IpnbRunCellInplaceAction" />
-  <action id="JumpToLastWindow" />
-  <action id="PyExecuteCellAction" />
+  <action id="Jdbc.RunQueryInConsole" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="ReplaceInPath" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="RunProfiler">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -31,16 +34,6 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="Terminal.OpenInTerminal">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
-  <action id="ToggleBookmark" />
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
-  <action id="ToggleZenMode">
-    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="ViewSource" />
 </keymap>
