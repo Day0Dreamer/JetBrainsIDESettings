@@ -1,5 +1,13 @@
 <profile version="1.0">
-  <option name="myName" value="Default" />
+  <option name="myName" value="Day 2024" />
+  <option name="scopesOrder">
+    <list>
+      <option value="All Changed Files" />
+      <option value="Open Files" />
+      <option value="Project Files" />
+      <option value="Scratches and Consoles" />
+    </list>
+  </option>
   <inspection_tool class="MicroPythonRequirements" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -58,5 +66,8 @@
       </list>
     </option>
   </inspection_tool>
-  <inspection_tool class="PyrightLSInspection" enabled="true" level="PyRight" enabled_by_default="true" editorAttributes="PyRight" />
+  <inspection_tool class="PyrightLSInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="PyRight">
+    <scope name="Open Files" level="PyRight" enabled="true" />
+    <scope name="Project Files" level="PyRight" enabled="true" />
+  </inspection_tool>
 </profile>
