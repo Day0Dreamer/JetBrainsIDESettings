@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="34.107.27.96" id="a674ed1b-9c8b-49cc-a741-31e2f53acbaf" keyPath="C:\Users\DayDreamer-i7\.ssh\mital" port="22" nameFormat="DESCRIPTIVE" username="mital_mybuddy_ai" />
-    </configs>
-  </component>
-</application>
