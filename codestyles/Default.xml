@@ -9,9 +9,6 @@
   <option name="RIGHT_MARGIN" value="125" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <option name="SOFT_MARGINS" value="80" />
-  <CsvCodeStyleSettings>
-    <option name="LEADING_WHITE_SPACES" value="true" />
-  </CsvCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
