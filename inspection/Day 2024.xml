@@ -64,6 +64,5 @@
       </list>
     </option>
   </inspection_tool>
-  <inspection_tool class="PyrightLSInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="PyRight" />
   <inspection_tool class="TaskProblemsInspection" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" editorAttributes="GENERIC_SERVER_ERROR_OR_WARNING" />
 </profile>
