@@ -15,6 +15,7 @@
   </action>
   <action id="IpnbRunCellInplaceAction" />
   <action id="Jdbc.RunQueryInConsole" />
+  <action id="PyExecuteCellAction" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
