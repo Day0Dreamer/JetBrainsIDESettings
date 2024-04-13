@@ -521,7 +521,6 @@
         </sourcePath>
       </roots>
       <additional SDK_UUID="5a76cace-47a4-4dbe-8252-b747f031bc1f">
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://P:/Python/al-hardware-snitch/src" />
         <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
