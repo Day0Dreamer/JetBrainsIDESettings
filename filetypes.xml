@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="dev_creds" type="AUTO_DETECTED" />
+      <mapping ext="kv" type="AUTO_DETECTED" />
       <mapping ext="shadron" type="AUTO_DETECTED" />
       <mapping ext="pyp" type="Cython" />
       <mapping pattern=".coveragerc" type="Ini" />
