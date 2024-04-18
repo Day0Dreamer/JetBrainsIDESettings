@@ -18,7 +18,6 @@
       <mapping ext="act" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="enum" type="PLAIN_TEXT" />
-      <mapping ext="kv" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
