@@ -5,8 +5,19 @@
     <debuggers>
       <debugger id="python">
         <configuration>
-          <option name="simplifiedView" value="false" />
+          <option name="quotingPolicy" value="DOUBLE" />
+          <option name="valuesPolicy" value="SYNC" />
           <option name="watchReturnValues" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
