@@ -36,6 +36,9 @@
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="InspectionProfileManager">
     <info color="be9117">
       <option name="FOREGROUND" value="18ff00" />
