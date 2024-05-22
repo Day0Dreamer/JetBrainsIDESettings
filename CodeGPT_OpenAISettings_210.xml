@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGPT_OpenAISettings_210">
+    <option name="codeCompletionsEnabled" value="false" />
     <option name="model" value="gpt-4o" />
     <option name="organization" value="org-1XI9xZMWX4YOUVnfEitpxVbf" />
   </component>
