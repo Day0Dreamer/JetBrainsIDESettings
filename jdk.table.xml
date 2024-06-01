@@ -2629,6 +2629,7 @@
         </sourcePath>
       </roots>
       <additional SDK_UUID="0062afc5-18b0-4808-b784-10c7ec3a3071">
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://P:/Python/al-client-dashboard/src" />
         <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
