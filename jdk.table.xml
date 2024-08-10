@@ -1230,14 +1230,14 @@
     <jdk version="2">
       <name value="Python 3.11 (al-gdrive-manager)" />
       <type value="Python SDK" />
-      <version value="Python 3.11.9" />
+      <version value="Python 3.12.0" />
       <homePath value="$USER_HOME$/AppData/Local/hatch/env/virtual/al-gdrive-manager/8HzaxnEG/al-gdrive-manager/Scripts/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/AppData/Local/hatch/env/virtual/.pythons/3.11/python/DLLs" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/hatch/env/virtual/.pythons/3.11/python/Lib" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/hatch/env/virtual/.pythons/3.11/python" type="simple" />
+            <root url="file://P:/Python312/DLLs" type="simple" />
+            <root url="file://P:/Python312/Lib" type="simple" />
+            <root url="file://P:/Python312" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/hatch/env/virtual/al-gdrive-manager/8HzaxnEG/al-gdrive-manager" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/hatch/env/virtual/al-gdrive-manager/8HzaxnEG/al-gdrive-manager/Lib/site-packages" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/1415674264" type="simple" />
