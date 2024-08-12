@@ -703,7 +703,7 @@
     <jdk version="2">
       <name value="Python 3.12 (al-stripe)" />
       <type value="Python SDK" />
-      <version value="Python 3.12.0" />
+      <version value="Python 3.12.5" />
       <homePath value="$USER_HOME$/AppData/Local/hatch/env/virtual/al-stripe/HM0dFOu7/al-stripe/Scripts/python.exe" />
       <roots>
         <classPath>
